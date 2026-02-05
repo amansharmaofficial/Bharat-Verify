@@ -1,0 +1,7 @@
+{
+  "name": "Bharat Verify",
+  "description": "An AI-powered multi-modal content verification platform designed to combat misinformation, fake news, and manipulated media through advanced fact-checking and deepfake detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
